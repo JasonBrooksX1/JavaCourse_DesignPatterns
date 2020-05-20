@@ -12,4 +12,8 @@ public interface BikeInterface {
     float getPrice();
 
     void paint(BikeColor color);
+
+    void cleanFrame();
+    void airTires();
+    void testRide();
 }

@@ -4,5 +4,5 @@ package com.patterns.java;
 * OF ALL THE ACME BICYCLES */
 
 public enum BikeColor {
-    UNPAINTED, CHROME,BLACK,BLUE,RED,GREEN,ORANGE
+    UNPAINTED, CHROME, BLACK, BLUE, RED, GREEN, ORANGE, GOLD
 }
